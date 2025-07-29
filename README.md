@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo, tenho 23 anos, moro em São Paulo e estou graduando em Análise e Desenvolvimento de Sistemas<br><br>Atualmente sou SDR em uma Assessoria de marketing, busco oportunidade para ingressar na area de T.I.</p>
+<p align="left">Meu nome é Eduardo, tenho 23 anos, moro em São Paulo e estou graduando em Engenharia de Software<br><br>Atualmente busco oportunidade para ingressar na area de T.I.</p>
 
 ###
 
